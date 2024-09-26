@@ -1,0 +1,17 @@
+body {
+    color: rgb(0, 0, 0);
+    background:lightblue;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(235, 89, 4);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+}
+
+section{
+    background: lightblue;
+    padding-bottom:80px;
+}
